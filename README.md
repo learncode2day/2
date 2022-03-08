@@ -7,5 +7,4 @@
 - 🥂 Communitive.
 
 <!DOCTYPE HTML>
-    <head>
-  <title>Welcome!</title>
+    You are very cool!
