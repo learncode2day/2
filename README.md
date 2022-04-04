@@ -1,6 +1,5 @@
 <h2 style="font-size: 5rem;">Hey there 👋<h2>
 > My name is Naibuu
-<!DOCTYPE HTML>
 
 - ✨ I have experience in using HTML and CSS.
 - 😎 Inactive on GitHub.
