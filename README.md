@@ -1,4 +1,4 @@
-<h2 style="font-size: 5rem;">Hey there 👋<h2>
+Hey there 👋
 > My name is Naibuu
 
 - ✨ I have experience in using HTML and CSS.
