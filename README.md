@@ -13,5 +13,5 @@
 <br />
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Naibuu&show_icons=true&theme=dark&line_height=21"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naibuu&theme=dark&hide_langs_below=1&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Naibuu&show_icons=true&theme=calm&line_height=21"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naibuu&theme=calm&hide_langs_below=1&layout=compact" />
