@@ -9,10 +9,11 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+  
+  o/ Just a typical Website programmer.
 
 <br />
 <br />
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Naibuu&show_icons=true&theme=calm&line_height=21"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naibuu&theme=calm&hide_langs_below=1&layout=compact" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Naibuu&show_icons=true&count_private=true&theme=calm&hide_border=true&bg_color=0D1117"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Naibuu&bg_color=0D1117&color=be6a53&line=e2cfb2&point=ebac49&hide_border=true">
