@@ -1,19 +1,15 @@
+### Introduction
 
-### Languages & Tools
+👋 I'm Naibuu, a front-end web developer and a video editor based in Greece. I'm looking forward to learning Java and UI/UX designing soon.
 
-<p align="center">
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-  
-  <p align="left">I'm from Greece and I'm a student and a Website developer. My Discord is Naibuu#3286 if you would like to get in contact.</p>
+> *Website* https://hs50.gq
 
-<br />
-<br />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Naibuu&show_icons=true&count_private=true&theme=calm&hide_border=true&bg_color=0D1117"/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Naibuu&bg_color=0D1117&color=be6a53&line=e2cfb2&point=ebac49&hide_border=true">
+#
+
+#### CheatBreaker 2
+The continuation of the previous free client-side AntiCheat and modpack combined! CheatBreaker 2 aims to improve the modpack experience by providing additional features for users to enjoy.
+
+#
+
+#### Kynon
+We're a Digital Development agency providing various open-source and easy to use functionalities and modifications for the gaming industry. 
