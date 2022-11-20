@@ -1,10 +1,14 @@
-### Introduction
+<h1 align="center">🌴🚸 (づ｡◕‿‿◕｡)づ</h1>
+<h3 align="center">
+    I'm a Front-end Web developer and a UI/UX Designer.
+    <br>
+</h3>
 
-👋 I'm Naibuu, a front-end web developer and a video editor based in Greece. I'm looking forward to learning Java and UI/UX designing soon.
 
-> *Website* https://hs50.gq
+## 🗺 Information
 
-#
+- I am a developer over at [Solar Tweaks](https://solartweaks.com). I handle each interface aspect to make sure it is user friendly.
 
-#### Kynon
-We're a Digital Development agency providing various open-source and easy to use functionalities and modifications for the gaming industry. 
+- I also own [Kynon](https://kynon.net), we are currently working on a ground-breaking project which is coming soon.
+
+- You can contact me by using my business email **alex@kynon.net**.
