@@ -8,4 +8,5 @@
 
 ### 🏝 Tools & Languages
 
-
+<img height="35px" src="https://github.com/Naibuu/Naibuu/blob/main/lang.png?raw=true" />
+<img height="35px" src="https://github.com/Naibuu/Naibuu/blob/main/tools.png?raw=true" />
