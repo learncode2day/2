@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/DOf9TRY.png" />
 <h1 align="center">leo (. ❛ ᴗ ❛.)</h1>
 <h3 align="center">
-    13 yo developer, learning new shit everyday. gaining support from my friends <3
+    13 yo developer
     <br>
 </h3>
 
