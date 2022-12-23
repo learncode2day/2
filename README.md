@@ -1,12 +1,16 @@
-<img src="https://github.com/Naibuu/Naibuu/blob/main/banner.png?raw=true" />
-<h1 align="center">🌴🚸 (づ｡◕‿‿◕｡)づ</h1>
+<img src="https://i.imgur.com/DOf9TRY.png" />
+<h1 align="center">leo (. ❛ ᴗ ❛.)</h1>
 <h3 align="center">
-    I do Front-end Web development and Graphics designing.
+    13 yo developer, learning new shit everyday. gaining support from my friends <3
     <br>
 </h3>
 
 
-### 🏝 Tools & Languages
+###  things i know & learning
 
 <img height="35px" src="https://github.com/Naibuu/Naibuu/blob/main/lang.png?raw=true" />
-<img height="35px" src="https://github.com/Naibuu/Naibuu/blob/main/tools.png?raw=true" />
+
+
+<h1>
+  <a href="#connect-with-me"><img src="https://lanyard.cnrad.dev/api/983163377243271291"></a>
+</h1>
